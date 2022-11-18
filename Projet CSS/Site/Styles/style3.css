@@ -1,0 +1,178 @@
+h1{
+	font-family: 'Press Start 2P', cursive;
+}
+h2{
+	font-family: 'Press Start 2P', cursive;
+}
+h3{
+	font-family: 'Press Start 2P', cursive;
+}
+p{
+	font-family: 'Press Start 2P', cursive;
+}
+#bloc1{
+	border: 6px black;
+	border-style:double;
+	padding:1em;
+}
+#combatobjet{
+	border:6px black;
+	border-style:double;
+	width:720px;
+	padding:1em;
+}
+#combatobjet_combat{
+	border:solid 3px black;
+	padding:5px;
+	margin-left:50px;
+}
+#combatobjet_Quelquesobjets{
+	border:solid 3px black;
+	padding:5px;
+	margin-right:50px;
+}
+.image_flottante_gauche{
+	border:solid black;
+	margin-left:4px;
+	height : 500 px;
+	 display:block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(../Images/8-bitpidgey.GIF) no-repeat;
+  width: 750px; /* largeur nouvelle image */
+  height: 550px; /* hauteur nouvelle image */
+  padding-left: 750px; /* = avec largeur image */
+}
+
+.image_flottante_droite{
+	border:solid black;
+	margin-left:4px ;
+	height : 500 px;
+	display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(../Images/8-bitpikachu.GIF) no-repeat;
+  width: 750px; /* largeur nouvelle image */
+  height: 500px; /* hauteur nouvelle image */
+  padding-left: 750px; /* = avec largeur image */
+}
+#logoroucool, #logopikachu,#logoosselait
+	{
+	display:block;
+	width: 50%;
+	height : 200px;
+	margin: auto;
+	}
+#logoroucool{
+	-moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(../Images/8-bitpidgey.GIF) no-repeat;
+  width: 750px; /* largeur nouvelle image */
+  height: 550px; /* hauteur nouvelle image */
+  padding-left: 750px; /* = avec largeur image */
+  border:solid;
+	margin-left:1em;
+}
+#logopikachu{
+	-moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(../Images/8-bitpikachu.GIF) no-repeat;
+  width: 750px; /* largeur nouvelle image */
+  height: 500px; /* hauteur nouvelle image */
+  padding-left: 750px; /* = avec largeur image */
+  border:solid;
+	margin-left:1em;
+}
+#logoosselait{
+	-moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(../Images/8-bitcubone.GIF) no-repeat;
+  width: 750px; /* largeur nouvelle image */
+  height: 500px; /* hauteur nouvelle image */
+  padding-left: 750px; /* = avec largeur image */
+  border:solid;
+	margin-left:1em;
+}
+#logochen{
+	display:block;
+	-moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(../Images/8-bitoak.PNG) no-repeat;
+  width: 750px; /* largeur nouvelle image */
+  height: 1000px; /* hauteur nouvelle image */
+  padding-left: 750px; /* = avec largeur image */
+  margin:auto;
+}
+.tout_noir{
+	background : black;
+	margin : auto ;
+	height : 500 px;
+	display: block;
+}
+}
+#cache{
+	color : black;
+	margin-left: 50%;
+	color:black;
+	background:none;
+	border:none;
+	opacity:100%;
+}
+button{
+		font-family: 'Press Start 2P', cursive;
+}
+.lien{
+	font-family: 'Press Start 2P', cursive;
+}
+#Magicarpe
+	{
+	background-image:url("../Images/8-bitmagikarp2.WEBP");
+	margin:auto;
+	padding:5px;
+	text-align:justify;
+	border-color : maroon;
+	border-style : double;
+	border-width: 15px;
+	width:60%;
+	}
+#magicarpe{
+	
+}
+#roucool{
+
+}
+.justif{
+	border:double 5px;
+	padding:1em;
+}
+.diff{
+	font-weight:bold;
+	color:white;
+	background-color:black;
+	border:solid white;
+	padding:1em;
+}
+#titresurprise{
+	color:black;
+	background-color:white;
+	padding:2px;
+}
+#soustitresurprise{
+	color:white;
+}
+#surprise{
+	opacity:0;
+}
+table{
+	font-family: 'Press Start 2P', cursive;
+}
+table, td, th
+	{border: solid 2px black;
+	border-collapse: collapse;
+	border-spacing: 2px;
+	padding:3px;
+	}
+.gauche,.droite{
+	border:double 5px black;
+	padding:1em;
+}
